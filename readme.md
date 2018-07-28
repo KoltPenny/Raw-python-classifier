@@ -7,4 +7,4 @@ Simple classifier using raw python. Receives two files (Raw text and solution) a
 
 **Usage**
 
-python classifier.py AggressiveDetection_train.txt AggressiveDetection_train_solution.txt
+`python classifier.py AggressiveDetection_train.txt AggressiveDetection_train_solution.txt`
